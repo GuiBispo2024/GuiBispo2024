@@ -1,7 +1,7 @@
 ## Olá, me chamo Guilherme Bispo👋
 
 - 🔭 Estudante de Desenvolvimento de Software (DSM);
-- 🌱 Atualmente utilizo Node.js, ReactJS, JavaScript, Java, SpringBoot;
+- 🌱 Atualmente estou estudando Node.js, ReactJS, JavaScript, Java, SpringBoot;
 
 <div>
   <a href="https://beacons.ai/GuiBispo2024">
